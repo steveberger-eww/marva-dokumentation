@@ -1,23 +1,16 @@
-# Nextra Docs Template 
+# Marva Dokumentation
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Das ist eine Template für die Dokumentationen für die Seminar- & Kursverwaltungssoftware MARVA.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+[**Website →**](https://www.marva.eu)
 
 ## Local Development
 
-First, run `pnpm i` to install the dependencies.
+Zuerst die Repo lokal abspeichern oder forken.
+Danach im Ordner `pnpm i` um alle dependencies zu aktualisieren/installieren.
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+Sollte beim clonen dieser Repo kein Problem sein, da alle Dependencies bereits inkludiert sind.
 
-## License
+Danach, wird der lokale dev server über `pnpm dev` gestartet und unter localhost:3000 aufgerufen.
 
-This project is licensed under the MIT License.
+© 2023 - Koschier Software-Entwicklung GmbH
