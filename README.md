@@ -16,10 +16,12 @@ Danach, wird der lokale dev server über `pnpm dev` gestartet und unter localhos
 
 ## Eine neue Seite erstellen
 
-Erstellt wird die Seite wenn man, z.b. in VS Code, die Repo öffnet und unter derm Ordner `pages` ein file mit dem suffix `.mdx` erstellt.
+Erstellt wird die Seite wenn man, z.b. in VS Code, die Repo öffnet und unter dem Ordner `pages` ein file mit dem suffix `.mdx` erstellt.
 
 Das kann z.b. so aussehen: `pages/buchhaltung.mdx`.
 
-Für ein MDX Tutorial bzw. eine Anleitung für alle Komponenten [hier klicken.](https://mdxjs.com/table-of-components/ "_blank")\
+Für ein MDX Tutorial bzw. eine Anleitung für alle Komponenten [hier klicken.](https://mdxjs.com/table-of-components/)
+
+---
 
 ### © 2023 - Koschier Software-Entwicklung GmbH
