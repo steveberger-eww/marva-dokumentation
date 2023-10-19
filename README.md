@@ -7,7 +7,8 @@ Das ist eine Template für die Dokumentationen für die Seminar- & Kursverwaltun
 ## Local Development
 
 Zuerst die Repo lokal abspeichern oder forken.
-Danach im Ordner `pnpm i` um alle dependencies zu aktualisieren/installieren.
+
+Danach im Ordner `pnpm i` um alle dependencies zu installieren. Diese sind automatisch im einem `.gitignore` File und werden somit nicht mit geuploaded.
 
 Sollte beim clonen dieser Repo kein Problem sein, da alle Dependencies bereits inkludiert sind.
 
