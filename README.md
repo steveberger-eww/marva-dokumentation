@@ -22,6 +22,6 @@ Das kann z.b. so aussehen: `pages/buchhaltung.mdx`.
 
 Für ein MDX Tutorial bzw. eine Anleitung für alle Komponenten [hier klicken.](https://mdxjs.com/table-of-components/)
 
----
+#### Danke an [Nextra](https://nextra.site)
 
 ### © 2023 - Koschier Software-Entwicklung GmbH
