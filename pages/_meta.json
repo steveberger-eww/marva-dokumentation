@@ -1,15 +1,17 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Einleitung",
+  "Ueberblick": "Funktionsüberblick",
+  "advanced": "Erweiterte Ordnerstruktur",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "Über Uns",
+    "type": "page",
+    "href": "https://www.marva.eu",
+    "newWindow": true
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Kontakt ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.marva.eu/kontakt",
     "newWindow": true
   }
 }
