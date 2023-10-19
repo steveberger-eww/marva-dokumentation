@@ -20,4 +20,6 @@ Erstellt wird die Seite wenn man, z.b. in VS Code, die Repo öffnet und unter de
 
 Das kann z.b. so aussehen: `pages/buchhaltung.mdx`.
 
+> so Kann das auch aussehen haha
+
 ### © 2023 - Koschier Software-Entwicklung GmbH
