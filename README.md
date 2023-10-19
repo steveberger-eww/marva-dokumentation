@@ -20,6 +20,6 @@ Erstellt wird die Seite wenn man, z.b. in VS Code, die Repo öffnet und unter de
 
 Das kann z.b. so aussehen: `pages/buchhaltung.mdx`.
 
-Für ein MDX Tutorial bzw. eine Anleitung für alle Komponenten [https://mdxjs.com/table-of-components/](hier klicken.)
+Für ein MDX Tutorial bzw. eine Anleitung für alle Komponenten [hier klicken.](https://mdxjs.com/table-of-components/)
 
 ### © 2023 - Koschier Software-Entwicklung GmbH
