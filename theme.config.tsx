@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://www.marva.eu",
   footer: {
-    text: "MARVA 2023 © Koschier Software-Entwicklung GmbH",
+    text: "Nextra Docs Template",
   },
 };
 

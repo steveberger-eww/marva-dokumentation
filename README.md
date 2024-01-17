@@ -14,14 +14,4 @@ Sollte beim clonen dieser Repo kein Problem sein, da alle Dependencies bereits i
 
 Danach, wird der lokale dev server über `pnpm dev` gestartet und unter localhost:3000 aufgerufen.
 
-## Eine neue Seite erstellen
-
-Erstellt wird die Seite wenn man, z.b. in VS Code, die Repo öffnet und unter dem Ordner `pages` ein file mit dem suffix `.mdx` erstellt.
-
-Das kann z.b. so aussehen: `pages/buchhaltung.mdx`.
-
-Für ein MDX Tutorial bzw. eine Anleitung für alle Komponenten [hier klicken.](https://mdxjs.com/table-of-components/)
-
-#### Danke an [Nextra](https://nextra.site)
-
-### © 2023 - Koschier Software-Entwicklung GmbH
+© 2023 - Koschier Software-Entwicklung GmbH
