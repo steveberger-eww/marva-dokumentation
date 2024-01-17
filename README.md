@@ -6,22 +6,4 @@ Das ist eine Template für die Dokumentationen für die Seminar- & Kursverwaltun
 
 ## Local Development
 
-Zuerst die Repo lokal abspeichern oder forken.
-
-Danach im Ordner `pnpm i` um alle dependencies zu installieren. Diese sind automatisch im einem `.gitignore` File und werden somit nicht mit geuploaded.
-
-Sollte beim clonen dieser Repo kein Problem sein, da alle Dependencies bereits inkludiert sind.
-
-Danach, wird der lokale dev server über `pnpm dev` gestartet und unter localhost:3000 aufgerufen.
-
-## Eine neue Seite erstellen
-
-Erstellt wird die Seite wenn man, z.b. in VS Code, die Repo öffnet und unter dem Ordner `pages` ein file mit dem suffix `.mdx` erstellt.
-
-Das kann z.b. so aussehen: `pages/buchhaltung.mdx`.
-
-Für ein MDX Tutorial bzw. eine Anleitung für alle Komponenten [hier klicken.](https://mdxjs.com/table-of-components/)
-
-#### Danke an [Nextra](https://nextra.site)
-
-### © 2023 - Koschier Software-Entwicklung GmbH
+Doku für bearbeitung wird noch geschrieben.
