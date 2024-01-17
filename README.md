@@ -6,12 +6,4 @@ Das ist eine Template für die Dokumentationen für die Seminar- & Kursverwaltun
 
 ## Local Development
 
-Zuerst die Repo lokal abspeichern oder forken.
-
-Danach im Ordner `pnpm i` um alle dependencies zu installieren. Diese sind automatisch im einem `.gitignore` File und werden somit nicht mit geuploaded.
-
-Sollte beim clonen dieser Repo kein Problem sein, da alle Dependencies bereits inkludiert sind.
-
-Danach, wird der lokale dev server über `pnpm dev` gestartet und unter localhost:3000 aufgerufen.
-
-© 2023 - Koschier Software-Entwicklung GmbH
+Doku für bearbeitung wird noch geschrieben.
